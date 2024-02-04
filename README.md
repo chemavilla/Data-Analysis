@@ -1,7 +1,7 @@
 GitHub Project Description - Data Analysis
 
 Project Overview:
-The "Data Analysis" GitHub project serves as a comprehensive collection of Jupyter Notebooks where various datasets are explored and analyzed using Python, the Pandas library, and data visualization tools. The project is designed to provide a hands-on learning experience in Python programming, Pandas data manipulation, and the creation of insightful visualizations.
+The "Data Analysis" GitHub project serves as a comprehensive collection of Jupyter Notebooks, where various datasets are explored and analyzed using Python, SQL, the Pandas library, and data visualization tools. The project is designed to provide a hands-on learning experience in Python programming, Pandas data manipulation, and the creation of insightful visualizations.
 
 Key Features:
 
